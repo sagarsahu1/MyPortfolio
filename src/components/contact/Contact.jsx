@@ -12,7 +12,7 @@ const Contact = () => {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
   const handleSubmit = (e) => {
-    alert('contact form edit krna baki hai')
+    alert('contact form edit krna baki hai mere bhai jld hi  krta hu')
   }
   // const handleSubmit = (e) => {
   //   e.preventDefault();
