@@ -2,31 +2,31 @@ export const products = [
     {
       id: 1,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
     {
       id: 2,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
     {
       id: 3,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
     {
       id: 4,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
     {
       id: 5,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
     {
       id: 6,
       img: "",
-      link: "http://lama.dev",
+      link: "https://github.com/sagarsahu1",
     },
   ];
